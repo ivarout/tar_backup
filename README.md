@@ -13,7 +13,7 @@ Create an (incremental) backup of the specified directory using:
 ```
 The created backup files are stored in the current directory under the name `<target directory>.<yy_mm_dd_H_M_S>.tar.gz`
 
-Recover data from create backup using:
+Recover data from created backup using:
 ```
 ./tar_backup.sh -r <target directory>
 ```
