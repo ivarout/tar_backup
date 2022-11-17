@@ -3,7 +3,9 @@ A simple Bash script for incremental tar backup automation on Linux.
 
 ## Useage
 
+```
 ./tar_backup.sh [-r] [-f <incremental backup file>] <target directory>
+```
 
 Create an (incremental) backup of the specified directory using:
 ```
