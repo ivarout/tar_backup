@@ -1,7 +1,7 @@
 # tar_backup
 A simple Bash script for incremental tar backup automation on Linux.
 
-## Useage
+## Usage
 
 ```
 ./tar_backup.sh [-r] [-f <incremental backup file>] <target directory>
